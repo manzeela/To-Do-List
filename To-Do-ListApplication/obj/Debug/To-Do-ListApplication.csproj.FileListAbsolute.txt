@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\bin\Debug\To-Do-ListApplication.exe.config
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\bin\Debug\To-Do-ListApplication.exe
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\bin\Debug\To-Do-ListApplication.pdb
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\bin\Debug\Dapper.dll
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\bin\Debug\Dapper.xml
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To-Do-ListApplication.csprojAssemblyReference.cache
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To_Do_ListApplication.Dashboard.resources
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To_Do_ListApplication.Properties.Resources.resources
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To-Do-ListApplication.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To-Do-ListApplication.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To-Do-ListApplication.csproj.CopyComplete
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To-Do-ListApplication.exe
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To-Do-ListApplication.pdb
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To_Do_ListApplication.AddTask.resources
+C:\Users\User\source\repos\ToDoListApp\To-Do-ListApplication\obj\Debug\To_Do_ListApplication.EditTask.resources
